@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello! 👋
+
+Checkout my portfolio at https://ceo-cgs.github.io/.
 
 <!--
 **CEO-CGS/CEO-CGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
